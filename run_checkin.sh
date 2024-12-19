@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# 进入脚本所在目录
+# 进入脚本目录
 cd /home/onwoywnooy/glados_checkin
 
-# 获取 Python3 的实际路径
-PYTHON_PATH=$(which python3)
+# 设置 Python 路径
+export PATH=/usr/local/bin:$PATH
 
 # 执行签到脚本
-$PYTHON_PATH glados_checkin.py 
+python3 glados_checkin.py >> logs/checkin.log 2>&1

@@ -5,6 +5,7 @@
 GLaDOS 自动签到主程序
 """
 
+
 import logging
 from datetime import datetime
 from glados_checkin import GladosCheckin

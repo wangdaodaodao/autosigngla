@@ -1,1 +1,7 @@
-{"cookie": "koa:sess=eyJ1c2VySWQiOjU2ODgyMiwiX2V4cGlyZSI6MTc2MDQ5MjgyNDY2NSwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=ie30NT4rhnL7JhBaRuUerXgTdBE", "expire_time": "2025-10-15 09:47:04"}
+{
+    "glados": {
+        "cookie": "koa:sess=eyJ1c2VySWQiOjU2ODgyMiwiX2V4cGlyZSI6MTc2MDQ5MjgyNDY2NSwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=ie30NT4rhnL7JhBaRuUerXgTdBE",
+        "email": "iwangdao@gmail.com",
+        "update_time": "2024-12-19"
+    }
+}
