@@ -4,6 +4,7 @@
 from datetime import datetime, timedelta
 import time
 import logging
+from glados_notify import GladosCheckin
 
 def get_next_run_time(target_hour=14, target_minute=50):
     """
